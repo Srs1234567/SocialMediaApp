@@ -1,4 +1,4 @@
-Social Media Platform using React, Node.js, and Firebase
+# Social Media Platform using React, Node.js, and Firebase
 
 Introduction
 
